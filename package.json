@@ -21,6 +21,6 @@
     "watch": "stylus -w src/style.styl src/style.css"
   },
   "dependencies": {
-    "stylus": "^0.49.3"
+    "stylus": "^0.54.5"
   }
 }
